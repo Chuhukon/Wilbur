@@ -1,0 +1,5 @@
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Basics\bin\Debug\Wilbur.Basics.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Basics\bin\Debug\Wilbur.Basics.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Basics\obj\Debug\Wilbur.Basics.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Basics\obj\Debug\Wilbur.Basics.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Basics\obj\Debug\Wilbur.Basics.csprojResolveAssemblyReference.cache

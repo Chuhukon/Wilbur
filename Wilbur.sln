@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilbur.Test", "Wilbur.Test\Wilbur.Test.csproj", "{029D9F33-5CC9-46F7-B782-CA08D09B29E8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{71C8714A-0101-49D2-82D1-AC2A6BC31C46}"
+	ProjectSection(SolutionItems) = preProject
+		Local.testsettings = Local.testsettings
+		Wilbur.Dotnet11\Wilbur.Dotnet11\bin\Release\Wilbur.Dotnet11.exe = Wilbur.Dotnet11\Wilbur.Dotnet11\bin\Release\Wilbur.Dotnet11.exe
+		Wilbur.vsmdi = Wilbur.vsmdi
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilbur.Basics", "Wilbur.Basics\Wilbur.Basics.csproj", "{3590F106-1D06-4069-A504-1A09E709EC2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frameworks", "Frameworks", "{3EE82761-60C6-490B-8246-3B68FD1D9C64}"
+	ProjectSection(SolutionItems) = preProject
+		Frameworks\Telerik.JustMock.dll = Frameworks\Telerik.JustMock.dll
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wilbur.DataAccess", "Wilbur.DataAccess\Wilbur.DataAccess.csproj", "{D81149B6-7CB9-4472-A05E-E7C4AB69480C}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = Wilbur.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029D9F33-5CC9-46F7-B782-CA08D09B29E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029D9F33-5CC9-46F7-B782-CA08D09B29E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029D9F33-5CC9-46F7-B782-CA08D09B29E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029D9F33-5CC9-46F7-B782-CA08D09B29E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3590F106-1D06-4069-A504-1A09E709EC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3590F106-1D06-4069-A504-1A09E709EC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3590F106-1D06-4069-A504-1A09E709EC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3590F106-1D06-4069-A504-1A09E709EC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D81149B6-7CB9-4472-A05E-E7C4AB69480C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D81149B6-7CB9-4472-A05E-E7C4AB69480C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D81149B6-7CB9-4472-A05E-E7C4AB69480C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D81149B6-7CB9-4472-A05E-E7C4AB69480C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3EE82761-60C6-490B-8246-3B68FD1D9C64} = {71C8714A-0101-49D2-82D1-AC2A6BC31C46}
+	EndGlobalSection
+EndGlobal

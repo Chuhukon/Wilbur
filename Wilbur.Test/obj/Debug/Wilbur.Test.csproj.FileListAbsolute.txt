@@ -1,0 +1,12 @@
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.Test.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.Test.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Telerik.JustMock.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.Basics.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.DataAccess.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.Dotnet11.exe
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.Basics.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Wilbur.DataAccess.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\obj\Debug\Wilbur.Test.csprojResolveAssemblyReference.cache
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\obj\Debug\Wilbur.Test.dll
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\obj\Debug\Wilbur.Test.pdb
+C:\Users\Jeroen\Documents\Visual Studio 2010\Projects\Wilbur\Wilbur.Test\bin\Debug\Telerik.CodeWeaver.Api.dll
