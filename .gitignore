@@ -1,2 +1,5 @@
+!bin/release/Wilbur.Dotnet11.exe
 TestResults/
-bin/
+bin/*
+obj/
+*.suo
